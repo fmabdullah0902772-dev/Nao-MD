@@ -30,23 +30,23 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.pairing = '6285864034767'
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.pairing = '923124001592'
+global.owner = [['923124001592', 'FM ABDULLAH', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '923124001592'
+global.nomorown = '923124001592'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.author = 'FM ABDULLAH'
+global.namebot = 'ABDULLAH-MD'
+global.wm = '© MD BOT BY FM ABDULLAH'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+${nomorbot}`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.stickpack = `Sticker Dibuat dengan ${namebot}\ABDULLAH MDgithub.com/fmabdullah\n\nNa ESM\n+${nomorbot}`
+global.stickauth = `© MD BOT BY FM ABDULLAH`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
